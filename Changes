@@ -1,0 +1,6 @@
+Revision history for Perl extension MikroTik::Simple.
+
+0.01  Sun Jan 21 07:52:46 2018
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n MikroTik::Simple -b 5.10.0
+
